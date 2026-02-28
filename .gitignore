@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# Notebooks
+.ipynb_limpiezaDatos/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datos (Opcional: solo si los archivos son muy pesados)
+# *.csv
